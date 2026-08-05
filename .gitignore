@@ -1,0 +1,5 @@
+node_modules/
+meshy-assets/
+*.log
+.DS_Store
+# dist/ is committed on purpose — Claude Code runs no install step for plugins

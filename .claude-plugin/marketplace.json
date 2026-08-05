@@ -1,0 +1,12 @@
+{
+  "name": "meshy-marketplace",
+  "owner": { "name": "Ross Kuehl", "email": "rosskuehl@gmail.com" },
+  "description": "Meshy AI 3D generation plugin for Claude Code.",
+  "plugins": [
+    {
+      "name": "meshy",
+      "source": "./",
+      "description": "Meshy AI 3D generation: text/image to 3D, retexture, rig, animate, print prep."
+    }
+  ]
+}
