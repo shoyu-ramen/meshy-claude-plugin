@@ -5,6 +5,7 @@
   "description": "Generate 3D models, textures, rigs, and animations with the Meshy AI API — text-to-3D, image-to-3D, mesh processing, 3D-print prep, and Creative Lab products.",
   "author": { "name": "Ross Kuehl", "email": "rosskuehl@gmail.com" },
   "homepage": "https://docs.meshy.ai/en/api",
+  "repository": "https://github.com/shoyu-ramen/meshy-claude-plugin",
   "license": "MIT",
   "keywords": ["meshy", "3d", "text-to-3d", "image-to-3d", "mcp"],
   "mcpServers": {
