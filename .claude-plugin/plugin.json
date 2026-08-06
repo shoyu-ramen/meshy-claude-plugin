@@ -12,7 +12,7 @@
     "meshy": {
       "command": "node",
       "args": ["${CLAUDE_PLUGIN_ROOT}/dist/index.mjs"],
-      "env": { "MESHY_API_KEY": "$MESHY_API_KEY" }
+      "env": { "MESHY_API_KEY": "${MESHY_API_KEY}" }
     }
   }
 }
